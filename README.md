@@ -10,7 +10,7 @@ This project explores the relationship between UK Sport funding and Team GB's Ol
 
 - `code.ipynb` — Jupyter Notebook with all code: data scraping, processing, inflation adjustment, and visualisation.
 - `InflationData.csv` — UK inflation data (CPIH) from 2008–2024 used to adjust funding figures to real terms. [Inflation Source](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l55o/mm23)
-- 'BlogPost.pdf' - Blog post as a pdf incase link fails
+- `BlogPost.pdf` - Blog post as a pdf incase link fails
 
 ## Blog post
 - [Understanding Olympic Medal Costs- Funding vs Performance](https://kubastaite.wordpress.com/2025/04/29/the-relationship-between-funding-and-olympic-medal-performance/)
